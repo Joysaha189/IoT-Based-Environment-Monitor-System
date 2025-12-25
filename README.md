@@ -31,6 +31,25 @@ This project is an IoT-based environment monitoring system designed to provide r
 
 Microcontroller: NodeMCU ESP8266 
 
+
+#### Project Status
+
+
+
+✅ Completed — Baseline implementation
+
+🔧 Open for enhancements and upgrades
+
+
+
+
+
+#### **License**
+
+
+
+This project is for academic and educational purposes.
+
 Sensors: \* DHT11: Temperature and humidity sensor 
 
 MQ135: Gas sensor for air quality estimation 
