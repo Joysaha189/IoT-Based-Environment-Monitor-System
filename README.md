@@ -32,6 +32,7 @@ This project is an IoT-based environment monitoring system designed to provide r
 Microcontroller: NodeMCU ESP8266 
 
 
+
 #### Project Status
 
 
@@ -90,3 +91,21 @@ Rechargeable Battery
 
 This monitor is designed for use in homes, schools, hospitals, and workspaces to help identify activities affecting air quality and promote a healthier environment. For highly polluted urban areas like Dhaka, it serves as a "wake up call" regarding surrounding pollution levels.
 
+
+#### Project Status
+
+
+
+✅ Completed — Baseline implementation
+
+🔧 Open for enhancements and upgrades
+
+
+
+
+
+#### **License**
+
+
+
+This project is for academic and educational purposes.
