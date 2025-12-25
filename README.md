@@ -25,7 +25,7 @@ This project is an IoT-based environment monitoring system designed to provide r
 
 #### **Hardware Components**
 
-
+![circuit_diagram](Images/circuit\_diagram.png)
 
 
 
@@ -73,7 +73,7 @@ Rechargeable Battery
 
 #### **Data Access**
 
-
+![results](Images/outputs.png)
 
 * The system provides three primary methods for accessing environmental data:
 * Local Display: Real-time data is shown on the mounted LCD screen.
