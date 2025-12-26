@@ -23,7 +23,7 @@ This project is an IoT-based environment monitoring system designed to provide r
 
 
 
-#### **Hardware Components**
+###### **Hardware Components**
 
 ![circuit_diagram](Images/circuit\_diagram.png)
 
@@ -71,7 +71,7 @@ Rechargeable Battery
 This monitor is designed for use in homes, schools, hospitals, and workspaces to help identify activities affecting air quality and promote a healthier environment. For highly polluted urban areas like Dhaka, it serves as a "wake up call" regarding surrounding pollution levels.
 
 
-###### Project Status
+###### **Project Status**
 
 
 
