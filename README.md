@@ -83,7 +83,7 @@ This monitor is designed for use in homes, schools, hospitals, and workspaces to
 
 
 
-Shafim Bin Hassan (1706172), Mostakin Ahmed Rafat (1706173), Subah Karnine (1706174), Farhan Hamid (1706175), Joy Saha (1706189)
+Shafim Bin Hassan (1706172), Mostakin Ahmed Rafat (1706173), Subah Karnine (1706174), Farhan Hamid (1706175), **Joy Saha (1706189)**
 
 Department of Electrical \& Electronic Engineering, Bangladesh University of Engineering and Technology (BUET)
 
