@@ -28,24 +28,7 @@ This project is an IoT-based environment monitoring system designed to provide r
 ![circuit_diagram](Images/circuit\_diagram.png)
 
 
-
 Microcontroller: NodeMCU ESP8266 
-
-
-
-#### Project Status
-
-
-
-✅ Completed — Baseline implementation
-
-🔧 Open for enhancements and upgrades
-
-
-
-
-
-###### **Components Used**
 
 Sensor-DHT11: Temperature and humidity sensor 
 
