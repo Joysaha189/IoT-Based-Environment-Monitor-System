@@ -10,7 +10,7 @@ This project is an IoT-based environment monitoring system designed to provide r
 
 
 
-#### **Key Features**
+###### **Key Features**
 
 
 
@@ -45,13 +45,9 @@ Microcontroller: NodeMCU ESP8266
 
 
 
-#### **License**
+###### **Components Used**
 
-
-
-This project is for academic and educational purposes.
-
-Sensors: \* DHT11: Temperature and humidity sensor 
+Sensor-DHT11: Temperature and humidity sensor 
 
 MQ135: Gas sensor for air quality estimation 
 
@@ -71,7 +67,7 @@ Rechargeable Battery
 
 
 
-#### **Data Access**
+###### **Data Access**
 
 ![results](Images/outputs.png)
 
@@ -85,14 +81,14 @@ Rechargeable Battery
 
 
 
-#### **Project Impact**
+###### **Project Impact**
 
 
 
 This monitor is designed for use in homes, schools, hospitals, and workspaces to help identify activities affecting air quality and promote a healthier environment. For highly polluted urban areas like Dhaka, it serves as a "wake up call" regarding surrounding pollution levels.
 
 
-#### Project Status
+###### Project Status
 
 
 
@@ -100,7 +96,7 @@ This monitor is designed for use in homes, schools, hospitals, and workspaces to
 
 🔧 Open for enhancements and upgrades
 
-#### **Contributors**
+###### **Contributors**
 
 
 
@@ -110,7 +106,7 @@ Department of Electrical \& Electronic Engineering, Bangladesh University of Eng
 
 
 
-#### **License**
+###### **License**
 
 
 
